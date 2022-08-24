@@ -1,0 +1,19 @@
+{
+  "santos": [
+    {
+      "id": 1,
+      "name": "Seiya",
+      "constellation": "Pegasos"
+    },
+    {
+      "id": 2,
+      "name": "Shiryu",
+      "constellation": "Dragon"
+    },
+    {
+      "id": 4,
+      "name": "Ikki",
+      "constellation": "Fenix"
+    }
+  ]
+}
